@@ -1,0 +1,6 @@
+.data-grid {
+  min-width: 520px;
+  justify-self: center;
+  align-self: center;
+  flex-direction: column;
+}
